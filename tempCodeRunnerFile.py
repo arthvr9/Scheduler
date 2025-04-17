@@ -1,0 +1,1 @@
+    # Envia uma mensagem normal no canal de interação
